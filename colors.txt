@@ -1,0 +1,4 @@
+Headers: #e3b703
+Background: #131313
+Divider: #4d4d4d
+Text: #f6f6f6
