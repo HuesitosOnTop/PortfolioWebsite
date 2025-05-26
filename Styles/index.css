@@ -1,0 +1,85 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #131313;
+    margin: 0;
+}
+
+div {
+    width: 100%;
+    height: 400px;
+}
+
+header {
+    color: #fccb09;
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-size: 50px;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+h1 {
+    color: #e3b703;
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.regText {
+    color: #f6f6f6;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+}
+
+/*
+    Footer
+*/
+.footer {
+    background-color: #181818;
+    width: 100%;
+}
+
+.footer h2 {
+    color: #f6f6f648;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: 28px;
+    text-align: center;
+    width: 100%;
+    background-color: transparent;
+    transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+.footer h6 {
+    color: #f6f6f648;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+}
+
+.footer div {
+    width: 33%;
+    position: absolute;
+}
+
+.footer-sitemap {
+    right: 0px;
+    margin: 0;
+}
+
+.footer-sites {
+    right: 33%;
+}
+
+.footer- {
+    right: 66%;
+}
+
+.footer h2:hover {
+    color: rgba(246, 246, 246, 1);
+}
